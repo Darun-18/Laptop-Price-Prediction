@@ -5,6 +5,13 @@
 This project predicts the price of a laptop based on its specifications using Machine Learning. 
 The model was trained on a Kaggle laptop dataset and deployed with Streamlit.
 
+## Live Demo 
+
+
+Try this application her:
+
+https://laptop-price-prediction-6qna7ggi3rz8bounkdeust.streamlit.app/#laptop-price-prediction
+
 ## Features
 
 - Predict laptop prices instantly
