@@ -8,7 +8,7 @@ The model was trained on a Kaggle laptop dataset and deployed with Streamlit.
 ## Live Demo 
 
 
-Try this application her:
+Try this application here:
 
 https://laptop-price-prediction-6qna7ggi3rz8bounkdeust.streamlit.app/#laptop-price-prediction
 
@@ -98,3 +98,5 @@ Laptop-Price-Prediction/
 **Darun**
 
 GitHub: https://github.com/Darun-18
+
+LinkedIn: www.linkedin.com/in/darunsuresh
